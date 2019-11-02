@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AnimalTest {
+public class AnimalCreator {
 
 
     private Animal createAnimal() {
